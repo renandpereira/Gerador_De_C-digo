@@ -82,7 +82,7 @@ Código de Barra
   <p>Este projeto está licenciado sob a <strong>Licença MIT</strong>. Veja o arquivo <a href="#">LICENSE</a> para mais detalhes.</p>
 
   <h2>Contato</h2>
-  <p>Caso tenha dúvidas ou sugestões, você pode me encontrar em <a href="mailto:seu-email@dominio.com">seu-email@dominio.com</a>.</p>
+  <p>Caso tenha dúvidas ou sugestões, você pode me encontrar no LinkedIn .</p>
 </body>
 </html>
 
