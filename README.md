@@ -1,5 +1,4 @@
 
-</head>
 <body>
   <h1>Automação de Logística para Rebipagem de Carga</h1>
   <p>Este projeto de automação tem como objetivo otimizar o processo de rebipagem de carga, gerando códigos de barras diretamente a partir de uma planilha Excel. Com isso, é possível realizar a bipagem da carga dentro do caminhão, sem a necessidade de retirar toda a carga para a conferência. Os códigos de barras gerados são organizados para impressão eficiente, aproveitando o máximo de espaço disponível na folha de papel.</p>
@@ -72,5 +71,18 @@ Código de Barra
 
   <h3>Passos para Contribuir</h3>
   <ol>
-    <li>Faça um <strong
+    <li>Faça um <strong>fork</strong> deste repositório.</li>
+    <li>Crie uma <strong>branch</strong> para suas alterações (<code>git checkout -b minha-alteracao</code>).</li>
+    <li>Realize as alterações desejadas.</li>
+    <li>Envie suas alterações para o seu fork (<code>git push origin minha-alteracao</code>).</li>
+    <li>Abra um <strong>pull request</strong> para o repositório original.</li>
+  </ol>
+
+  <h2>Licença</h2>
+  <p>Este projeto está licenciado sob a <strong>Licença MIT</strong>. Veja o arquivo <a href="#">LICENSE</a> para mais detalhes.</p>
+
+  <h2>Contato</h2>
+  <p>Caso tenha dúvidas ou sugestões, você pode me encontrar em <a href="mailto:seu-email@dominio.com">seu-email@dominio.com</a>.</p>
+</body>
+</html>
 
